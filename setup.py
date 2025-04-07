@@ -24,4 +24,5 @@ setup(
         "pandas>=1.1.0",
         "tqdm>=4.50.0",
     ],
+    include_package_data=True,
 ) 
